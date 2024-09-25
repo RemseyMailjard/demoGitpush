@@ -5,5 +5,6 @@ public class Main {
         //Create a variable that describes what you think of coding so far
         String iThinkCodingIs = "AWESOME!";
         Boolean doYouGuysLikeItSoFar = true;
+        int secondAtempt = 2;
     }
 }
