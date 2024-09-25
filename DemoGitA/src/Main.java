@@ -7,5 +7,6 @@ public class Main {
         Boolean doYouGuysLikeItSoFar = true;
         int secondAttempt = 2;
         //This is a comment
+        // New staging commit and ready to push GITHUB online
     }
 }
