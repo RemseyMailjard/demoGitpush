@@ -6,5 +6,6 @@ public class Main {
         String iThinkCodingIs = "AWESOME!";
         Boolean doYouGuysLikeItSoFar = true;
         int secondAttempt = 2;
+        //This is a comment
     }
 }
